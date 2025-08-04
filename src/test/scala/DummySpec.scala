@@ -1,6 +1,5 @@
-import org.scalatest.wordspec.AnyWordSpec
 import org.scalatest.matchers.should.Matchers
-import 
+import org.scalatest.wordspec.AnyWordSpec
 class DummySpec extends AnyWordSpec with Matchers {
 
   "Dummy test" should {
